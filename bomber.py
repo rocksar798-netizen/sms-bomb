@@ -45,4 +45,4 @@ try:
 except KeyboardInterrupt:
     print(f"\n\n💀 SALDIRI DURDURULDU!")
     print(f"📊 TOPLAM GÖNDERİLEN: {count} SMS")
-    print("✅ PENTEST TAMAMLANDI!")  
+    print("✅ PENTEST TAMAMLANDI!")
